@@ -2,6 +2,12 @@ dc.leaflet.js
 =============
 This extension provides support for DC.js charts in a Leaflet.js map.
 
+Modified
+========
+
+Modified to use same behaviour as the shown in dc.geochloropleth
+23/04/2015 - SimonBjohnson
+
 Demo
 =============
 Examples can be found here:
